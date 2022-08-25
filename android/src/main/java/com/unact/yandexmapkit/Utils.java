@@ -9,7 +9,6 @@ import com.yandex.mapkit.RequestPoint;
 import com.yandex.mapkit.RequestPointType;
 import com.yandex.mapkit.ScreenPoint;
 import com.yandex.mapkit.ScreenRect;
-import com.yandex.mapkit.directions.driving.DrivingOptions;
 import com.yandex.mapkit.geometry.BoundingBox;
 import com.yandex.mapkit.geometry.Circle;
 import com.yandex.mapkit.geometry.Geometry;
